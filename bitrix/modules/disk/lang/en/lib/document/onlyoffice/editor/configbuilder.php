@@ -1,2 +1,0 @@
-<?php
-$MESS["DISK_ONLYOFFICE_CONFIGBUILDER_CUSTOMER_INFO"] = "Edit. Discuss. Share.";

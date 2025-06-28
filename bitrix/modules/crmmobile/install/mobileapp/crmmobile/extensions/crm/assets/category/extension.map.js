@@ -1,1 +1,0 @@
-{"version":3,"sources":["extension.js"],"names":["jn","define","require","exports","module","CategorySvg","static","color"],"mappings":"AAGAA,GAAGC,OAAO,uBAAuB,CAACC,EAASC,EAASC,KAInD,MAAMC,EAELC,cAAcC,EAAQ,WAErB,MAAO,0rCAA0rCA,aAGlsCD,wBAEC,MAAO,+rCAITF,EAAOD,QAAU,CAAEE,YAAAA","file":"extension.map.js"}

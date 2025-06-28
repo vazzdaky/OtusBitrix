@@ -1,3 +1,0 @@
-<?php
-$MESS['CRM_TIMELINE_LOG_EMAIL_ACTIVITY_NON_DELIVERED_TITLE'] = 'Исходящее письмо не доставлено';
-$MESS['CRM_TIMELINE_LOG_EMAIL_ACTIVITY_NON_DELIVERED_TAG_TEXT'] = 'Ошибка доставки';

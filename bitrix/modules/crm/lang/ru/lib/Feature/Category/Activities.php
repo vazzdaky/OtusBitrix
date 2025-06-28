@@ -1,2 +1,0 @@
-<?php
-$MESS['FEATURE_CATEGORY_ACTIVITIES_NAME'] = 'Дела';

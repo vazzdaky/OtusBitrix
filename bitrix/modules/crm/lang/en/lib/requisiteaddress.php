@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_REQUISITE_ADDRESS_TYPE_BENEFICIARY"] = "Beneficiary address";
-$MESS["CRM_REQUISITE_ADDRESS_TYPE_DELIVERY"] = "Delivery address";
-$MESS["CRM_REQUISITE_ADDRESS_TYPE_HOME"] = "Registered address";
-?>

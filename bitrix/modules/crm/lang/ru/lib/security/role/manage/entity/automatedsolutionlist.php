@@ -1,3 +1,0 @@
-<?php
-
-$MESS['CRM_SECURITY_ROLE_ENTITY_TYPE_AUTOMATED_SOLUTION_LIST_NAME'] = 'Цифровые рабочие места';

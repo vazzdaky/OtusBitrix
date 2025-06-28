@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_CALL_TRACKER_DIRECTION_INCOMING"] = "Входящий звонок";
-$MESS["CRM_CALL_TRACKER_DIRECTION_OUTGOING"] = "Исходящий звонок";
-

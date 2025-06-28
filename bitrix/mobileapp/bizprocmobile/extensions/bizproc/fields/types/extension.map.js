@@ -1,1 +1,0 @@
-{"version":3,"file":"extension.map.js","names":["jn","define","require","exports","module","BaseTypeMap","IblockTypeMap","propertyToField"],"sources":["extension.js"],"mappings":"AAGAA,GAAGC,OAAO,wBAAwB,CAACC,EAASC,EAASC,KAEpD,MAAMC,YAAEA,GAAgBH,EAAQ,6BAChC,MAAMI,cAAEA,GAAkBJ,EAAQ,+BAElC,MAAMK,EAAkB,IACpBF,KACAC,GAGJF,EAAOD,QAAU,CAAEI,kBAAiB"}

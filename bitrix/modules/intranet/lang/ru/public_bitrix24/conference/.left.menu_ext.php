@@ -1,6 +1,0 @@
-<?
-$MESS["MENU_CONFERENCE_START"] = "Видеоконференции";
-$MESS["MENU_CONFERENCE_RECORDINGS"] = "Записи";
-$MESS["MENU_CONFERENCE_RIGHTS"] = "Права";
-$MESS["MENU_CONFERENCE_BIN"] = "Корзина";
-?>

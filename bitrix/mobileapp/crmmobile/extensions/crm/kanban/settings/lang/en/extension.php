@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_CATEGORY_DETAIL_FUNNEL2"] = "Pipeline \"#CATEGORY_NAME#\"";
-$MESS["CRM_CATEGORY_DETAIL_FUNNEL_EMPTY2"] = "Untitled pipeline";

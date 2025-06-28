@@ -1,2 +1,0 @@
-<?
-$MESS['CRM_TIMELINE_DTO_VALIDATOR_WRONG_LANG']= 'Язык #LANG# не найден';

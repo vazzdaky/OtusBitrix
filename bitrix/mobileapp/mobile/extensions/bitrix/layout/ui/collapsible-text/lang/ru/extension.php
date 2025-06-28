@@ -1,3 +1,0 @@
-<?php
-$MESS['COLLAPSIBLE_STRING_VIEW_MORE'] = 'ещё';
-$MESS['COLLAPSIBLE_STRING_VIEW_LESS'] = 'свернуть';

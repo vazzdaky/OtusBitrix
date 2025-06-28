@@ -1,4 +1,0 @@
-<?php
-
-$MESS['CRM_ACTIVITY_PROVIDER_BIZPROC_COMMENT_NAME_MSGVER_1'] = 'Комментарий к процессу';
-$MESS['CRM_ACTIVITY_PROVIDER_BIZPROC_COMMENT_SUBJECT'] = 'Новые комментарии';

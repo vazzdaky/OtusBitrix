@@ -1,3 +1,0 @@
-<?php
-$MESS['INTRANET_LICENSE_WIDGET_CONTENT_UPDATES_TEXT'] = 'Обновления';
-

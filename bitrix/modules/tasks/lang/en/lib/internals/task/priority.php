@@ -1,5 +1,0 @@
-<?php
-$MESS["TASKS_PRIORITY_0"] = "Low";
-$MESS["TASKS_PRIORITY_1"] = "Normal";
-$MESS["TASKS_PRIORITY_2"] = "High";
-$MESS["TASKS_PRIORITY_TITLE"] = "Priority";

@@ -1,3 +1,0 @@
-<?php
-$MESS["MARKET_PRICE_POLICY_FREE"] = "Бесплатно";
-$MESS["MARKET_PRICE_POLICY_SUBSCRIPTION"] = "Подписка";

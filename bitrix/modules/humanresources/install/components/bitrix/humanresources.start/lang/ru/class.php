@@ -1,4 +1,0 @@
-<?php
-
-$MESS['HUMAN_RESOURCES_START_MAIN_PAGE_TITLE_MSGVER_1'] = 'Структура компании';
-$MESS['HUMAN_RESOURCES_START_HCMLINK_COMPANIES_PAGE_TITLE'] = 'Интеграция КЭДО с 1С';

@@ -1,4 +1,0 @@
-<?php
-
-$MESS['CRM_TIMELINE_BIZPROC_EXEC_TIME'] = 'Мгновенно';
-$MESS['CRM_TIMELINE_BIZPROC_EXEC_TITLE'] = 'Время запуска';

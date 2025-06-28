@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKS_TASK_INTEGRATION_TASK_COMMENT"] = "task comment";
-$MESS["TASKS_TASK_INTEGRATION_TASK_COMMENT_V2"] = "Task comment";

@@ -1,1 +1,0 @@
-{"version":3,"sources":["extension.js"],"names":["this","Const","NotificationTypes","confirm","simple","placeholder"],"mappings":"AAAA,MAECA,KAAKC,MAAQ,CACZC,kBAAmB,CAClBC,QAAS,EACTC,OAAQ,EACRC,YAAa,KANhB","file":"extension.map.js"}

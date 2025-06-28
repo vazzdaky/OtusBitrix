@@ -1,1 +1,0 @@
-{"version":3,"sources":["extension.js"],"names":["jnexport","FILE_SUCCESS_UPLOAD","FILE_FAIL_UPLOAD"],"mappings":"AAGA,MAECA,SAAS,CAAC,CACTC,oBAAqB,0BACrBC,iBAAkB,wBAChB,wBALJ","file":"extension.map.js"}

@@ -1,3 +1,0 @@
-<?php
-$MESS["DISK_BOARDS_HANDLER_NAME"] = "Boards";
-$MESS["DISK_BOARDS_VIEWER_HANDLER_ERROR_METHOD_IS_NOT_SUPPORTED"] = "This action is not supported.";

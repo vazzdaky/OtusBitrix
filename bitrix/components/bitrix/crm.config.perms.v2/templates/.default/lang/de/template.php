@@ -1,4 +1,0 @@
-<?php
-$MESS["CRM_CONFIG_PERMS_HELP"] = "HILFE";
-$MESS["CRM_CONFIG_PERMS_SAVE_POPUP_CANCEL"] = "Abbrechen";
-$MESS["CRM_CONFIG_PERMS_SAVE_POPUP_TITLE"] = "Änderungen speichern?";

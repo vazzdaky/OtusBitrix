@@ -1,2 +1,0 @@
-<?php
-$MESS["EXTRANET_WORKGROUPS_SECTION_TITLE"] = "My Groups";

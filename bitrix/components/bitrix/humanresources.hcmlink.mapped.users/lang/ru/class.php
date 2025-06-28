@@ -1,4 +1,0 @@
-<?php
-$MESS['HCMLINK_GRID_MAP_FIELD_TITLE_PERSON'] = 'Сотрудник в 1С';
-$MESS['HCMLINK_GRID_MAP_FILTER_FIELD_PERSON'] = 'Сотрудник в 1С';
-$MESS['HCMLINK_GRID_MAP_FIELD_TITLE_USER'] = 'Сотрудник в Битрикс24';

@@ -1,3 +1,0 @@
-<?php
-$MESS["MARKET_DETAIL_ITEM_CONTACT_DEVELOPERS"] = "Contact developer";
-$MESS["MARKET_DETAIL_ITEM_REQUEST_A_DEMO"] = "Request a demo";

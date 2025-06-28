@@ -1,6 +1,0 @@
-<?php
-$MESS['CRM_TIMELINE_MARKET_PANEL_TEXT'] = 'Более 1000 приложений для CRM';
-$MESS['CRM_TIMELINE_MARKET_PANEL_TEXT_DETAILS'] = 'Подробнее';
-$MESS['CRM_TIMELINE_CLIENT_TITLE'] = 'Клиент';
-$MESS['CRM_TIMELINE_MENU_FASTEN'] = 'Закрепить';
-$MESS['CRM_TIMELINE_MENU_UNFASTEN'] = 'Открепить';

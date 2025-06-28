@@ -1,3 +1,0 @@
-<?php
-$MESS["CATALOG_BACKGROUND_BARCODE_SCAN_TEXT"] = "Click to scan";
-$MESS["CATALOG_BACKGROUND_BARCODE_SCAN_TITLE"] = "Barcode scanner";

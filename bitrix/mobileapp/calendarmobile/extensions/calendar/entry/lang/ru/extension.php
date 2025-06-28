@@ -1,5 +1,0 @@
-<?php
-
-$MESS['M_CALENDAR_ENTRY_EVENT_COLLAB_LIST_TITLE'] = 'Календарь коллабы';
-$MESS['M_CALENDAR_ENTRY_EVENT_VIEW_FORM_TITLE'] = 'Новое событие';
-$MESS['M_CALENDAR_ENTRY_EVENT_EDIT_FORM_TITLE'] = 'Событие';

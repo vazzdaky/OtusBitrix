@@ -1,4 +1,0 @@
-<?php
-$MESS['INTRANETMOBILE_SETTINGS_TITLE'] = 'Интранет';
-$MESS['INTRANETMOBILE_SETTINGS_USERS_BETA_TITLE'] = 'Новый список пользователей (бета)';
-$MESS['INTRANETMOBILE_SETTINGS_USERS_BETA_ACTIVE_TITLE'] = 'Включить бета-режим';

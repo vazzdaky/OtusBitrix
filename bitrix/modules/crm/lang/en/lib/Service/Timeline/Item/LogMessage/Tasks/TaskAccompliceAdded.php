@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKS_ON_TASK_ACCOMPLICE_ADDED_CHANGE"] = "Added by:";
-$MESS["TASKS_ON_TASK_ACCOMPLICE_ADDED_TITLE"] = "New participants added";

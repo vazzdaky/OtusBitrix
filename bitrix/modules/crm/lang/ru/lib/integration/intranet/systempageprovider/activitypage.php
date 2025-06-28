@@ -1,3 +1,0 @@
-<?php
-
-$MESS['CRM_INTEGRATION_INTRANET_ACTIVITY_PAGE_TITLE'] = "Мои дела";

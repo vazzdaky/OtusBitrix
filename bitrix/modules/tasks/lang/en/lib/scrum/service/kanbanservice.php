@@ -1,4 +1,0 @@
-<?php
-$MESS["TASKS_SCRUM_STAGE_FINISH"] = "Finished";
-$MESS["TASKS_SCRUM_STAGE_NEW"] = "New";
-$MESS["TASKS_SCRUM_STAGE_WORK"] = "In progress";

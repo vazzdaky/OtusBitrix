@@ -1,4 +1,0 @@
-<?php
-
-$MESS['CRM_CATEGORY_DETAIL_FUNNEL_EMPTY2'] = 'Воронка без названия';
-$MESS['CRM_CATEGORY_DETAIL_FUNNEL2'] = 'Воронка «#CATEGORY_NAME#»';

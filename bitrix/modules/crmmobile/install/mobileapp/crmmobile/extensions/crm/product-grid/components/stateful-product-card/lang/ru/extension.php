@@ -1,3 +1,0 @@
-<?php
-
-$MESS['PRODUCT_GRID_PRODUCT_CARD_SELECT_SKU'] = 'Выбрать';

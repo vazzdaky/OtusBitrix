@@ -1,2 +1,0 @@
-<?
-$MESS['NETWORK_PROVIDER_DEFAULT_SUB_TITLE'] = 'Открытая линия';

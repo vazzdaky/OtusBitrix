@@ -1,7 +1,0 @@
-.tasks-compact-card-full-button-container.--disabled {
-	cursor: not-allowed;
-}
-
-.tasks-compact-card-full-button-container.--disabled .tasks-compact-card-full-button {
-	pointer-events: none;
-}

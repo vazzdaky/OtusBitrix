@@ -1,2 +1,0 @@
-<?php
-$MESS["TASKS_FLOW_TASK_TRAIT_TASK"] = "Task ##TASK_ID#";

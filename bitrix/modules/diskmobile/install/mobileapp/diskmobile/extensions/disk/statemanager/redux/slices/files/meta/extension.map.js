@@ -1,1 +1,0 @@
-{"version":3,"file":"extension.map.js","names":["jn","define","require","exports","module","createEntityAdapter","sliceName","fileListAdapter"],"sources":["extension.js"],"mappings":"AAGAA,GAAGC,OAAO,6CAA6C,CAACC,EAASC,EAASC,KACzE,MAAMC,oBAAEA,GAAwBH,EAAQ,8BAExC,MAAMI,EAAY,aAClB,MAAMC,EAAkBF,IAExBD,EAAOD,QAAU,CAChBG,YACAC,kBACA"}

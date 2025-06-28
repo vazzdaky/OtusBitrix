@@ -1,3 +1,0 @@
-<?php
-$MESS["MULTI_EMAIL_EDIT_MENU_ITEM"] = "Edit";
-$MESS["MULTI_EMAIL_REMOVE_MENU_ITEM"] = "Delete";

@@ -1,4 +1,0 @@
-<?
-$MESS["DISK_PROXY_TYPE_GROUP_TITLE"] = "Диск";
-$MESS["DISK_PROXY_TYPE_COLLAB_GROUP_TITLE"] = "Файлы";
-?>

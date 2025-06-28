@@ -1,2 +1,0 @@
-<?php
-$MESS["RPA_MODEL_ITEM_NEW_NAME"] = "Новый #TYPE_NAME#";

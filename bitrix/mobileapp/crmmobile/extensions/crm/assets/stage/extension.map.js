@@ -1,1 +1,0 @@
-{"version":3,"sources":["extension.js"],"names":["jn","define","require","exports","module","getStageNavigationIcon","color","getStageIcon"],"mappings":"AAGAA,GAAGC,OAAO,oBAAoB,CAACC,EAASC,EAASC,KAEhD,MAAMC,EAA0BC,GAAU,8nBAA8nBA,aAExqB,MAAMC,EAAgBD,GAAU,0mBAA0mBA,aAE1oBF,EAAOD,QAAU,CAAEE,uBAAAA,EAAwBE,aAAAA","file":"extension.map.js"}

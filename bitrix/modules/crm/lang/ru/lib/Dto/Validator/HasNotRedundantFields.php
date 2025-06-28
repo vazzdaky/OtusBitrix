@@ -1,2 +1,0 @@
-<?
-$MESS['CRM_DTO_VALIDATOR_FIELD_IS_REDUNDANT'] = 'Поле #FIELD# лишнее для объекта #PARENT_OBJECT#';
